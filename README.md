@@ -42,6 +42,18 @@ AI Note Web Studio 是一款专为职场人士打造的**原生网页端**会议
 
 界面设计克制优雅，深色工作台搭配清晰的信息层级，适合桌面端长时间沉浸式使用，是提升会议效率、打通信息孤岛的理想选择。
 
+
+
+<br/>
+
+## 🎬 产品截图
+
+<div align="center">
+  <img src="./screenshots/home.png" alt="AI Note 首页" width="100%" />
+  <br/>
+  <sub><b>网页端全能会议助手 · 录音 / 转写 / 总结一站完成</b></sub>
+</div>
+
 <br/>
 
 ## 🪐 立即体验
